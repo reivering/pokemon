@@ -1,0 +1,6 @@
+id,name,type,hp,attack,defense
+1,Bulbasaur,Grass/Poison,45,49,49
+2,Charmander,Fire,39,52,43
+3,Squirtle,Water,44,48,65
+4,Pikachu,Electric,35,55,40
+5,Jigglypuff,Normal/Fairy,115,45,20
